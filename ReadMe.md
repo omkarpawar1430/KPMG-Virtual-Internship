@@ -12,6 +12,8 @@ Draft an email to the client identifying the data quality issues and strategies 
 
 ### Module 2:
 
+
+
 ### Module 3:
 
 ----
