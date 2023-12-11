@@ -20,13 +20,4 @@ Draft an email to the client identifying the data quality issues and strategies 
 ### Connect with Me: 
 
 Name: Omkar Pawar
-
 linktree: https://linktr.ee/omkarpawar1430
-
-Gmail: pawaromkar1430@gmail.com
-
-LinkdIn: https://www.linkedin.com/in/omkarpawar1430/ 
-
-GitHub: https://github.com/omkarpawar1430 
-
-YouTube: https://www.youtube.com/@datadecides

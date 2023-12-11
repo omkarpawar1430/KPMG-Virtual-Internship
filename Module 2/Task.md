@@ -1,3 +1,5 @@
+![Alt text](image.png)
+
 ### Using the existing 3 datasets (Customer demographic, customer address and transactions) as a labelled dataset, please recommend which of these 1000 new customers should be targeted to drive the most value for the organisation. 
 
 -----------
@@ -18,7 +20,7 @@ link: https://www.abs.gov.au/statistics?opendocument&ref=topBar
 
 **Task 2: Model Development Phase**
 1. **Objective:** Develop a predictive model to identify the most valuable new customers.
-2. **Activities:**
+2. **Activities:** 
    - Define the target variable (e.g., customer value) based on business goals.
    - Perform feature engineering to create relevant predictors for the model.
    - Transform raw data fields (e.g., convert D.O.B to age or age groups).

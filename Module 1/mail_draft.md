@@ -27,14 +27,11 @@ Below are the identified errors and our recommended mitigations:
 
 - Calculate the mean of tenure values and assign the mean value to missing fields for data consistency.
 
-### **Sheet: NewCustomerList (1000 X 23)**
-- `last_name`: 29 NaN Values
-- `DOB`: 17 NaN Values
-- `job_title`: 106 NaN Values
-- `job_industry_category`: 165 NaN Values
+### **sheet: CustomerAddress (3999 X 6)**
+- `state`: feature have inconsistent values. 
 
 **Mitigation:**
-- Rename columns 'Unnamed: 16', 'Unnamed: 17', 'Unnamed: 18', 'Unnamed: 19' for ease of analysis.
+- use of dropdown option to gather information
 
 ### **Sheet: Transactions (2000 X 13)**
 - `online_order`: 360 NaN Values
@@ -49,6 +46,15 @@ Below are the identified errors and our recommended mitigations:
 - Confirm if the 197 rows with NaN values indicate no actual purchase.
 - Replace `nan` with mode values for `product_class` and `product_size`.
 
+### **Sheet: NewCustomerList (1000 X 23)**
+- `last_name`: 29 NaN Values
+- `DOB`: 17 NaN Values
+- `job_title`: 106 NaN Values
+- `job_industry_category`: 165 NaN Values
+
+**Mitigation:**
+- dropping additional features with no meaning: 'Unnamed: 16', 'Unnamed: 17', 'Unnamed: 18', 'Unnamed: 19' for ease of analysis.
+  
 ---------
 
 ### **Recommendations:**
