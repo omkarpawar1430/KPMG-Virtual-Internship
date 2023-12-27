@@ -1,6 +1,6 @@
 ## Subject: Data Quality Assessment Findings
 
-Dear [Recipient's Name],
+Dear [Client Name],
 
 I hope this email finds you well. My name is Omkar Pawar, and I am part of the KPMG Data Analytics team. I am writing to share the results of our comprehensive review of the datasets provided by your company. During the data quality analysis phase, we identified several errors that require attention.
 
