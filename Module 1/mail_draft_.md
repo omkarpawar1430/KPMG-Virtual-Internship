@@ -14,14 +14,18 @@ Ensuring data accuracy and reliability is crucial for generating precise analyti
 | `DOB`                       | Missing Values   | 87                   | Impute with the mode year for consistency.                |
 | `job_title`                 | Missing Values   | 506                  | Evaluate and impute using appropriate methods.            |
 | `job_industry_category`     | Missing Values   | 656                  | Assess and impute based on relevant criteria.             |
-| `default`                   | Missing Values   | 302                  | Evaluate and impute using appropriate methods.            |
+| `gender`                   | Inconsistent Data  | 0                  | ensure a consistent representation (M, Male, Female, F, U)            |
 | `tenure`                    | Missing Values   | 87                   | Calculate the mean of tenure values for consistency.       |
+
+**Additional Issues:**
+
+- `default` column contains gibberish data with no meaning. Evaluate and impute using appropriate methods or consider dropping the column for clarity.
 
 ### Sheet: CustomerAddress (3999 X 6)
 
 | Column Name                 | Issue Type       | Number of NaN Values | Mitigation                                               |
 |-----------------------------|------------------|----------------------|----------------------------------------------------------|
-| `state`                     | Inconsistent     | N/A                  | Use the dropdown option to gather information.             |
+| `state`                     | Inconsistent     | 0                  | Use the dropdown option to gather information.             |
 
 ### Sheet: Transactions (2000 X 13)
 
