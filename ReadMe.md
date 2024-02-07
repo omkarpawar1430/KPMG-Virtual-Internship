@@ -31,6 +31,8 @@ Develop a PowerPoint presentation for client sign-off, outlining a three-week sc
 Define activities for each phase, including data distribution analysis, feature engineering, data transformations, modeling, and results interpretation.
 Provide recommendations on target customers based on analysis of existing datasets.
 
+![Alt text](<Data/images/target cluster.png>)
+
 ### Task 3: Dashboard Development for Client Presentation
 #### Background:
 The client requires a dashboard to present data summary and analysis results in the next meeting. The dashboard should answer key business questions and guide marketing and growth strategies.
