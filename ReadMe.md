@@ -12,6 +12,7 @@
 Welcome to the repository for the project aimed at optimizing Sprocket Central Pty Ltd's marketing strategy through in-depth analysis of customer and transaction data. The project is divided into three tasks, each addressing a specific aspect of enhancing business growth. This README file provides a comprehensive guide to understanding the project and its objectives.
 
 ### Task 1: Preliminary Data Exploration and Quality Improvement
+
 #### Background:
 Sprocket Central Pty Ltd has approached KPMG's Lighthouse & Innovation Team to analyze its customer and transaction datasets for optimizing its marketing strategy. The focus is on improving the quality of customer datasets to drive company growth.
 
@@ -22,7 +23,10 @@ Perform preliminary analysis to lay the foundation for subsequent tasks.
 
 <img src="Data/images/standard data quality dim.png" alt="Alt text" width="400"/>
 
+--------
+
 ### Task 2: Targeting New Customers with No Prior Transaction History
+
 #### Background:
 Sprocket Central Pty Ltd has provided a list of 1000 potential customers with demographics but no transaction history. The goal is to recommend which of these customers should be targeted for maximizing value.
 
@@ -33,7 +37,10 @@ Provide recommendations on target customers based on analysis of existing datase
 
 ![Alt text](<Data/images/target cluster.png>)
 
+--------
+
 ### Task 3: Dashboard Development for Client Presentation
+
 #### Background:
 The client requires a dashboard to present data summary and analysis results in the next meeting. The dashboard should answer key business questions and guide marketing and growth strategies.
 
@@ -44,6 +51,12 @@ Address business context by highlighting trends, identifying customer segments w
 Suggest additional external datasets for deeper insights into customer preferences.
 
 
+![alt text](<Data/images/KPMG dashboard 1.png>)
+
+
+![alt text](<Data/images/KPMG dashboard 2.png>)
+
+--------
 
 ### Tools and Technologies Used:
 Python for data analysis.
