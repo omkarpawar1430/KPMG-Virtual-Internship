@@ -59,10 +59,10 @@ Suggest additional external datasets for deeper insights into customer preferenc
 --------
 
 ### Tools and Technologies Used:
-Python for data analysis.
-Power BI for dashboard development.
-RFM (Recency, Frequency, Monetary) Analysis.
-K Means++ model for customer segmentation.
+1. Python for data analysis.
+2. Power BI for dashboard development.
+3. RFM (Recency, Frequency, Monetary) Analysis.
+4. K Means++ model for customer segmentation.
 
 ### Instructions for Running the Code:
 1. Clone the repository to your local machine.
